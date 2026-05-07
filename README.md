@@ -1,21 +1,37 @@
 <div align="center">
 
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Prem%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Problem%20Solver&descAlignY=58&descAlign=50"/>
+
+<img src="https://github.com/kingprem12.png" width="170" style="border-radius:50%;" />
+
 # 👋 Hey, I'm Prem S
 
-### 🚀 Full Stack Developer | AI Engineer | Data & Cloud Enthusiast
+### 🚀 Full Stack Developer • AI Engineer • Cloud & Data Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+LLM+Builder;Data+Engineering+Enthusiast;Hackathon+Winner+%F0%9F%8F%86;Building+Scalable+Applications" />
-<img src="https://github.com/kingprem12.png" width="180" style="border-radius:50%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+%26+LLM+Application+Developer;Building+Scalable+Full-Stack+Applications;Hackathon+Winner+%F0%9F%8F%86;Cloud+%26+Data+Engineering+Enthusiast;Open+Source+Contributor" />
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/kingprem12)
+<a href="https://github.com/kingprem12">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/prem-s-12626b309/)
+<a href="https://www.linkedin.com/in/prem-s-12626b309/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge\&logo=reddit)](https://www.reddit.com/user/Ok-Glass1313/)
+<a href="https://www.reddit.com/user/Ok-Glass1313/">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=kingprem12&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
+<a href="https://github.com/kingprem12/portfolio">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=kingprem12&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -24,20 +40,20 @@
 # 🧠 About Me
 
 🎓 B.E Computer Science (IoT) @ **Sri Krishna College of Technology (SKCT)**
-📍 Coimbatore, India
+📍 Coimbatore, Tamil Nadu, India
 🏆 Ranked among the **Top 2 students in college (2023–2026)**
-⚡ Passionate about building intelligent systems, scalable full-stack applications, and AI-powered products.
+⚡ Passionate about AI systems, scalable backend engineering, full-stack development, and cloud technologies.
 
 ---
 
-# 🚀 What I'm Currently Working On
+# 🚀 Currently Exploring
 
-* 🍳 **Fridge Gourmet AI** – AI recipe generation platform
-* 🤖 AI + LLM integrated applications
-* 📊 Data Engineering & ETL workflows
-* ☁️ Cloud & scalable backend systems
-* 🔗 Blockchain + Smart Contract automation
-* 📚 DSA & System Design
+* 🍳 AI-powered applications & LLM integrations
+* 🤖 Intelligent automation systems
+* ☁️ Cloud-native architectures
+* 📊 Data Engineering & ETL pipelines
+* 🔗 Blockchain & Smart Contracts
+* 📚 DSA + System Design
 
 ---
 
@@ -47,17 +63,17 @@
 
 ## 👨‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,cpp,js,ts,python,mysql" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,mysql" />
 
 ---
 
-## ⚛️ Frontend Development
+## ⚛️ Frontend
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vite" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vite,nextjs" />
 
 ---
 
-## ⚙️ Backend Development
+## ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,firebase" />
 
@@ -65,13 +81,13 @@
 
 ## ☁️ Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,linux" />
 
 ---
 
 ## 🧠 AI / ML
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
 </div>
 
@@ -79,65 +95,18 @@
 
 # 🚀 Featured Projects
 
-## 🍳 Fridge Gourmet AI
+<div align="center">
 
-AI-powered culinary platform that transforms available ingredients into optimized dishes using LLMs.
+| Project                                                         | Description                                                                                       | Tech Stack                                   |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 🍳 [Retro Kitchen](https://github.com/kingprem12/Retro-Kitchen) | AI-powered recipe generator that transforms available ingredients into complete dishes using LLMs | React • Node.js • Express • MongoDB • OpenAI |
+| 🤖 [SkillGap AI](https://github.com/kingprem12/SkillGap-AI)     | AI-driven skill gap analysis platform with personalized recommendations                           | React • GPT • REST APIs • Node.js            |
+| 🏆 [TrustLance](https://github.com/kingprem12/TrustLance)       | GDG Hackathon winning project focused on trust-based freelance verification ecosystem             | MERN • Authentication • AI                   |
+| 💰 [Loanify](https://github.com/kingprem12/loanify)             | Smart loan management & eligibility prediction platform                                           | React • Backend APIs • Database              |
+| 🥗 [NutriSnap](https://github.com/kingprem12/nutrisnap)         | AI-powered nutrition tracking app that analyzes food from images                                  | Computer Vision • AI • Nutrition APIs        |
+| 🔗 Ghost Yield                                                  | Automated DeFi yield optimization vault using blockchain smart contracts                          | Solidity • Smart Contracts • Web3            |
 
-### ✨ Features
-
-* AI Recipe Generation
-* Authentication System
-* Personalized User Profiles
-* Recipe Saving & Management
-* Fine Dining Mode
-* Nutrition & Analysis
-* Smart Grocery Suggestions
-
-### 🛠️ Tech
-
-`React` `Node.js` `Express` `MongoDB` `OpenAI API`
-
----
-
-## 🌦️ Smart Climate-Adaptive Irrigation System
-
-Developed a hybrid deep learning architecture combining:
-
-* Genetic Algorithm optimized LSTM
-* CNN-BiLSTM
-* Multi-head attention mechanisms
-
-### 📈 Achievements
-
-✅ 95%+ prediction accuracy
-✅ Trained on 1.2M+ satellite records
-✅ NASA MODIS + CHIRPS data integration
-
----
-
-## 🔗 Ghost Yield
-
-Built a decentralized DeFi vault enabling automated yield compounding using smart contracts and blockchain automation.
-
-### ✨ Features
-
-* Automated yield optimization
-* Smart contract automation
-* Session-based auto signing
-* Blockchain reward tracking
-
----
-
-## 🤖 SkillGap AI
-
-AI-powered career gap analysis platform using GPT-based NLP and personalized recommendations.
-
-### ✨ Features
-
-* Resume skill gap analysis
-* AI role matching
-* Personalized learning roadmap
-* REST API architecture
+</div>
 
 ---
 
@@ -148,7 +117,7 @@ AI-powered career gap analysis platform using GPT-based NLP and personalized rec
 ☁️ **Oracle Cloud Infrastructure 2025 – AI Foundations**
 📊 **Tata iQ GenAI Data Analytics Simulation**
 🏅 **Azure Certified**
-💻 **Full Stack MERN Development Traineeship**
+💻 **MERN Stack Development Traineeship**
 
 ---
 
@@ -174,7 +143,7 @@ AI-powered career gap analysis platform using GPT-based NLP and personalized rec
 
 ---
 
-# 📊 Activity Graph
+# 📊 GitHub Activity Graph
 
 <div align="center">
 
@@ -184,23 +153,7 @@ AI-powered career gap analysis platform using GPT-based NLP and personalized rec
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/kingprem12/kingprem12/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-# 💡 Fun Fact
-
-⚡ I enjoy building AI-powered systems that solve real-world problems and participating in hackathons where innovation meets engineering.
-
----
-
-# 🌐 Let's Connect
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -210,6 +163,10 @@ AI-powered career gap analysis platform using GPT-based NLP and personalized rec
 
 <a href="https://www.linkedin.com/in/prem-s-12626b309/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/kingprem12/portfolio">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="https://www.reddit.com/user/Ok-Glass1313/">
@@ -222,6 +179,6 @@ AI-powered career gap analysis platform using GPT-based NLP and personalized rec
 
 <div align="center">
 
-### 🚀 "Building intelligent systems with scalable engineering."
+### ⚡ “Building intelligent systems with scalable engineering.”
 
 </div>
