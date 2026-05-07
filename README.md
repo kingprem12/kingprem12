@@ -1,15 +1,16 @@
 <div align="center">
 
+<table>
+<tr>
+<td width="62%">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Prem%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Problem%20Solver&descAlignY=58&descAlign=50"/>
 
-<img src="https://github.com/kingprem12.png" width="170" style="border-radius:50%;" />
-
 # 👋 Hey, I'm Prem S
 
-### 🚀 Full Stack Developer • AI Engineer • Cloud & Data Enthusiast
+### 🚀 Full Stack Developer | AI Engineer | Data & Cloud Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=AI+%26+LLM+Application+Developer;Building+Scalable+Full-Stack+Applications;Hackathon+Winner+%F0%9F%8F%86;Cloud+%26+Data+Engineering+Enthusiast;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&width=500&lines=AI+%26+LLM+Application+Developer;Building+Scalable+Applications;Hackathon+Winner+🏆;Cloud+%26+Backend+Engineering;Open+Source+Contributor" />
 
 <br/>
 
@@ -29,11 +30,21 @@
 <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=kingprem12&label=Profile%20Views&color=0e75b6&style=flat" />
 
-</div>
+</td>
+
+<td width="38%" align="center">
+
+<img src="./prem.png" width="260" />
+
+</td>
+</tr>
+</table>
+
+---
 
 ---
 
