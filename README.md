@@ -1,18 +1,22 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Prem%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Problem%20Solver&descAlignY=58&descAlign=50"/>
+
+</div>
+
 <table>
 <tr>
-<td width="62%">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Prem%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Problem%20Solver&descAlignY=58&descAlign=50"/>
+<td width="65%">
 
 # 👋 Hey, I'm Prem S
 
 ### 🚀 Full Stack Developer | AI Engineer | Data & Cloud Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&width=500&lines=AI+%26+LLM+Application+Developer;Building+Scalable+Applications;Hackathon+Winner+🏆;Cloud+%26+Backend+Engineering;Open+Source+Contributor" />
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&width=550&lines=AI+%26+LLM+Application+Developer;Building+Scalable+Applications;Hackathon+Winner+🏆;Cloud+%26+Backend+Engineering;Open+Source+Contributor" />
+
+<br><br>
 
 <a href="https://github.com/kingprem12">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -30,15 +34,15 @@
 <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=kingprem12&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=kingprem12&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </td>
 
-<td width="38%" align="center">
+<td width="35%" align="center">
 
-<img src="./prem.png" width="260" />
+<img src="https://avatars.githubusercontent.com/u/195477038?v=4" width="250" style="border-radius: 20px;" />
 
 </td>
 </tr>
@@ -46,31 +50,33 @@
 
 ---
 
----
-
 # 🧠 About Me
 
-🎓 B.E Computer Science (IoT) @ **Sri Krishna College of Technology (SKCT)**
-📍 Coimbatore, Tamil Nadu, India
-🏆 Ranked among the **Top 2 students in college (2023–2026)**
+🎓 **B.E Computer Science (IoT)** @ Sri Krishna College of Technology (SKCT)  
+📍 Coimbatore, Tamil Nadu, India  
+🏆 Ranked among the **Top 2 students in college (2023–2026)**  
 ⚡ Passionate about AI systems, scalable backend engineering, full-stack development, and cloud technologies.
 
 ---
 
 # 🚀 Currently Exploring
 
-* 🍳 AI-powered applications & LLM integrations
-* 🤖 Intelligent automation systems
-* ☁️ Cloud-native architectures
-* 📊 Data Engineering & ETL pipelines
-* 🔗 Blockchain & Smart Contracts
-* 📚 DSA + System Design
+<div align="center">
+
+| |
+|---|
+| 🍳 AI-powered applications & LLM integrations |
+| 🤖 Intelligent automation systems |
+| ☁️ Cloud-native architectures |
+| 📊 Data Engineering & ETL pipelines |
+| 🔗 Blockchain & Smart Contracts |
+| 📚 DSA + System Design |
+
+</div>
 
 ---
 
 # 💻 Tech Stack
-
-<div align="left">
 
 ## 👉 Programming Languages
 
@@ -122,65 +128,27 @@
 
 ---
 
-## 👉 Tools & Platforms
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-## ⚛️ Frontend
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vite,nextjs" />
-
----
-
-## ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,firebase" />
-
----
-
-## ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,linux" />
-
----
-
-## 🧠 AI / ML
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-
-</div>
-
----
-
 # 🚀 Featured Projects
 
-<div align="center">
-
-| Project                                                         | Description                                                                                       | Tech Stack                                   |
-| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| 🍳 [Retro Kitchen](https://github.com/kingprem12/Retro-Kitchen) | AI-powered recipe generator that transforms available ingredients into complete dishes using LLMs | React • Node.js • Express • MongoDB • OpenAI |
-| 🤖 [SkillGap AI](https://github.com/kingprem12/SkillGap-AI)     | AI-driven skill gap analysis platform with personalized recommendations                           | React • GPT • REST APIs • Node.js            |
-| 🏆 [TrustLance](https://github.com/kingprem12/TrustLance)       | GDG Hackathon winning project focused on trust-based freelance verification ecosystem             | MERN • Authentication • AI                   |
-| 💰 [Loanify](https://github.com/kingprem12/loanify)             | Smart loan management & eligibility prediction platform                                           | React • Backend APIs • Database              |
-| 🥗 [NutriSnap](https://github.com/kingprem12/nutrisnap)         | AI-powered nutrition tracking app that analyzes food from images                                  | Computer Vision • AI • Nutrition APIs        |
-| 🔗 Ghost Yield                                                  | Automated DeFi yield optimization vault using blockchain smart contracts                          | Solidity • Smart Contracts • Web3            |
-
-</div>
+| Project | Description |
+|---|---|
+| 🍳 [Retro Kitchen](https://github.com/kingprem12/Retro-Kitchen) | AI-powered recipe generator using LLMs |
+| 🤖 [SkillGap AI](https://github.com/kingprem12/SkillGap-AI) | AI-driven skill gap analysis platform |
+| 🏆 [TrustLance](https://github.com/kingprem12/TrustLance) | GDG Hackathon winning freelance trust ecosystem |
+| 💰 [Loanify](https://github.com/kingprem12/loanify) | Smart loan management platform |
+| 🥗 [NutriSnap](https://github.com/kingprem12/nutrisnap) | AI-powered food nutrition tracker |
+| 🔗 Ghost Yield | Blockchain DeFi yield optimization vault |
 
 ---
 
-# 🏆 Achievements & Certifications
+# 🏆 Achievements
 
-🥇 **1st Prize – GDG Hackathon 2025**
-🥈 **2nd Place – Bharati Vidyapeeth University Hackathon**
-☁️ **Oracle Cloud Infrastructure 2025 – AI Foundations**
-📊 **Tata iQ GenAI Data Analytics Simulation**
-🏅 **Azure Certified**
-💻 **MERN Stack Development Traineeship**
+🥇 1st Prize – GDG Hackathon 2025  
+🥈 2nd Place – Bharati Vidyapeeth University Hackathon  
+☁️ Oracle Cloud Infrastructure AI Foundations  
+📊 Tata iQ GenAI Data Analytics Simulation  
+🏅 Azure Certified  
+💻 MERN Stack Development Traineeship
 
 ---
 
@@ -188,9 +156,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kingprem12&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kingprem12&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingprem12&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingprem12&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
