@@ -5,6 +5,7 @@
 ### 🚀 Full Stack Developer | AI Engineer | Data & Cloud Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+LLM+Builder;Data+Engineering+Enthusiast;Hackathon+Winner+%F0%9F%8F%86;Building+Scalable+Applications" />
+<img src="https://github.com/kingprem12.png" width="180" style="border-radius:50%" />
 
 <br/>
 
