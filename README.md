@@ -1,48 +1,44 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Prem%20S&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Problem%20Solver&descAlignY=58&descAlign=50"/>
+<img src="./assets/hero.svg" width="100%" alt="Prem S — Full Stack & Mobile App Developer"/>
+
+<br/>
+
+<a href="https://prem-portfolio-beige.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0B1426?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/prem-s-12626b309/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:selvaraj3805@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://img.shields.io/badge/Open%20to-SDE%20roles%20·%202027-5EEAD4?style=for-the-badge&labelColor=0B1426" alt="Open to SDE roles"/>
 
 </div>
 
+---
+
+### `> whoami`
+
+I build **mobile apps and the backends behind them** — from the first API route to the signed build that passes App Store review.
+
+- 📱 **Shipped to production:** rider, driver and partner apps on **Google Play & the App Store** (React Native · Flutter) as an SDE Intern at **Dendo**.
+- 🧱 **End-to-end:** Node.js, Spring Boot and Laravel APIs, PostgreSQL/MySQL, WebSockets, FCM push, Google Maps, payments, CI/CD with Fastlane.
+- 🏆 **1st place**, Shardeum track — *Hack with GDG Season 3* (36-hour hackathon, Feb 2026).
+- 🎓 B.E. CSE (IoT), Sri Krishna College of Technology · **CGPA 8.4** · department rank 2 · **300+ LeetCode** problems.
+
+---
+
+### 💼 Experience
+
 <table>
 <tr>
-<td width="65%">
+<td width="72"><img src="https://img.shields.io/badge/-SDE-1D4ED8?style=flat-square" alt=""/></td>
+<td>
 
-# 👋 Hey, I'm Prem S
+**Software Development Engineer Intern — Dendo**, Coimbatore · *Jul 2026 – Sep 2026*
 
-### 🚀 Full Stack Developer | AI Engineer | Data & Cloud Enthusiast
+Two live platforms, four store apps: **NexaRide** (ride-hailing — rider & driver apps) and **Dendo** (food delivery — customer & restaurant-partner apps).
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&width=550&lines=AI+%26+LLM+Application+Developer;Building+Scalable+Applications;Hackathon+Winner+🏆;Cloud+%26+Backend+Engineering;Open+Source+Contributor" />
-
-<br><br>
-
-<a href="https://github.com/kingprem12">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/prem-s-12626b309/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://www.reddit.com/user/Ok-Glass1313/">
-<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit"/>
-</a>
-
-<a href="https://github.com/kingprem12/portfolio">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=kingprem12&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://avatars.githubusercontent.com/u/195477038?v=4" width="250" style="border-radius: 20px;" />
+- Built NexaRide rider/driver apps in **React Native** on **Node.js** services with real-time trip updates, live map tracking and lock-screen trip status.
+- Built **Flutter** partner features on a **Laravel** REST backend: live orders with alerts, rider tracking, chat, store status, tax invoices, settlements and Bluetooth receipt printing.
+- Integrated **FCM** notifications and Google / Apple / Facebook sign-in; cut a dashboard freeze by lazy-rendering orders and dropping ~10 MB of assets.
+- Owned **releases with Fastlane** — signed AAB / iOS builds, store listings, review submissions and Play policy fixes.
 
 </td>
 </tr>
@@ -50,166 +46,136 @@
 
 ---
 
-# 🧠 About Me
+### 🚀 Featured work
 
-🎓 **B.E Computer Science (IoT)** @ Sri Krishna College of Technology (SKCT)  
-📍 Coimbatore, Tamil Nadu, India  
-🏆 Ranked among the **Top 2 students in college (2023–2026)**  
-⚡ Passionate about AI systems, scalable backend engineering, full-stack development, and cloud technologies.
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+#### 🛡️ [TrustLance](https://github.com/kingprem12/TrustLance_TRT) &nbsp;`🏆 GDG winner`
+Freelance marketplace where every milestone is paid from a **Solidity escrow** on Shardeum. Wallet sign-in, Supabase with row-level security, Gemini-assisted dispute summaries.
 
-# 🚀 Currently Exploring
+`Next.js` `TypeScript` `Solidity` `Hardhat` `Supabase`
 
-<div align="center">
+</td>
+<td width="50%" valign="top">
 
-| |
-|---|
-| 🍳 AI-powered applications & LLM integrations |
-| 🤖 Intelligent automation systems |
-| ☁️ Cloud-native architectures |
-| 📊 Data Engineering & ETL pipelines |
-| 🔗 Blockchain & Smart Contracts |
-| 📚 DSA + System Design |
+#### 🌾 [AgriShield-X](https://github.com/kingprem12/Agri-Shield)
+Next-month **drought forecasting** from 1.36 M satellite records (MODIS, CHIRPS, ERA5). PSO-tuned LightGBM, R² 0.82 — plus an [ESP32 field-sensor edition](https://github.com/kingprem12/Agri-shield--X).
 
-</div>
+`Python` `LightGBM` `Earth Engine` `Docker` `Terraform` `ESP32`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-# 💻 Tech Stack
+#### 🤖 JARVIS &nbsp;`private`
+Self-hosted AI operator: streaming chat, sandboxed tools, approvals with diffs, semantic memory, browser and developer agents, voice and a mobile companion.
 
-## 👉 Programming Languages
+`TypeScript` `Fastify` `React` `PostgreSQL` `Ollama`
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
----
+#### 🧿 Aegis — Cyber Defense Lab &nbsp;`private`
+Local-first SOC: detects activity in a simulated enterprise, investigates with local AI agents and proposes reversible responses behind human approval. **391 tests.**
 
-## 👉 Frontend Development
+`Python` `FastAPI` `React` `PostgreSQL` `Redis` `Docker` `Ollama`
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+#### 💼 [JobTracker](https://github.com/kingprem12/job-tracker-management-)
+Job and interview management with role-based access for candidates, counselors and admins. Spring Boot serves the API and the React SPA from one port.
 
-## 👉 Backend Development
+`Java` `Spring Boot 3.5` `React 18` `JWT`
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-red?style=for-the-badge)
+</td>
+<td width="50%" valign="top">
 
----
+#### 🐍 [Slytherin DEX](https://github.com/kingprem12/Slytherin)
+"Stripe for swaps" — an API-only AMM on **Algorand**, so any wallet or fintech app can offer token swaps with one call. ~3.5 s finality.
 
-## 👉 Databases & Cloud Hosting
+`TypeScript` `Algorand` `PuyaTS` `REST`
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+#### 🏦 [Loanify](https://github.com/kingprem12/loanify)
+NBFC loan automation with multi-agent orchestration — KYC, sales, underwriting and document agents — plus a live admin dashboard.
 
-## 👉 AI & Machine Learning
+`TypeScript` `Python` `Java` `AI agents`
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
----
+#### 👻 [Ghost Yield](https://github.com/kingprem12/Ghost_Yield)
+DeFi vault on an Initia rollup with session auto-signing, so a "ghost operator" can compound yield without a popup per transaction.
 
-# 🚀 Featured Projects
+`Solidity` `TypeScript` `Initia`
 
-| Project | Description |
-|---|---|
-| 🍳 [Retro Kitchen](https://github.com/kingprem12/Retro-Kitchen) | AI-powered recipe generator using LLMs |
-| 🤖 [SkillGap AI](https://github.com/kingprem12/SkillGap-AI) | AI-driven skill gap analysis platform |
-| 🏆 [TrustLance](https://github.com/kingprem12/TrustLance) | GDG Hackathon winning freelance trust ecosystem |
-| 💰 [Loanify](https://github.com/kingprem12/loanify) | Smart loan management platform |
-| 🥗 [NutriSnap](https://github.com/kingprem12/nutrisnap) | AI-powered food nutrition tracker |
-| 🔗 Ghost Yield | Blockchain DeFi yield optimization vault |
+</td>
+</tr>
+</table>
+
+<sub>More: [Law-Craftsmen](https://github.com/kingprem12/Law-Craftsmen) (legal RAG assistant) · [Private-chatbot](https://github.com/kingprem12/Private-chatbot) (offline document Q&A with Ollama) · [Retro-Kitchen](https://github.com/kingprem12/Retro-Kitchen) · [Fridge Gourmet](https://fridge-gourment.vercel.app) · [Competitive-Program](https://github.com/kingprem12/Competitive-Program)</sub>
 
 ---
 
-# 🏆 Achievements
+### 🧰 Tech stack
 
-🥇 1st Prize – GDG Hackathon 2025  
-🥈 2nd Place – Bharati Vidyapeeth University Hackathon  
-☁️ Oracle Cloud Infrastructure AI Foundations  
-📊 Tata iQ GenAI Data Analytics Simulation  
-🏅 Azure Certified  
-💻 MERN Stack Development Traineeship
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kingprem12&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingprem12&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<table>
+<tr><td><b>Mobile</b></td><td><img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,swift&theme=dark" alt="Mobile"/></td></tr>
+<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=ts,js,nextjs,html,css,tailwind&theme=dark" alt="Frontend"/></td></tr>
+<tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php,laravel,py,fastapi&theme=dark" alt="Backend"/></td></tr>
+<tr><td><b>Data</b></td><td><img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,redis,firebase&theme=dark" alt="Data"/></td></tr>
+<tr><td><b>Cloud & DevOps</b></td><td><img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,githubactions,linux&theme=dark" alt="Cloud and DevOps"/></td></tr>
+<tr><td><b>Web3 & IoT</b></td><td><img src="https://skillicons.dev/icons?i=solidity,arduino,raspberrypi&theme=dark" alt="Web3 and IoT"/></td></tr>
+</table>
 
 ---
 
-# 🔥 Contribution Streak
+### 📜 Certifications
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kingprem12&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📊 GitHub Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kingprem12&theme=tokyo-night&hide_border=true"/>
-
-</div>
+| | Certification | Issuer | Year |
+|:-:|---|---|:-:|
+| <img src="https://img.shields.io/badge/-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt=""/> | **Microsoft Certified: Azure Fundamentals** | Microsoft | 2025 |
+| <img src="https://img.shields.io/badge/-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt=""/> | AWS Cloud Practitioner Essentials | AWS Skill Builder | 2025 |
+| <img src="https://img.shields.io/badge/-0F2B4C?style=flat-square&logo=chase&logoColor=white" alt=""/> | Software Engineering Job Simulation (Kafka, REST, H2) | JPMorgan Chase · Forage | 2026 |
+| <img src="https://img.shields.io/badge/-86BC25?style=flat-square&logo=deloitte&logoColor=white" alt=""/> | Technology · Cyber · Data Analytics Job Simulations | Deloitte · Forage | 2026 |
+| <img src="https://img.shields.io/badge/-FFE600?style=flat-square&logo=ey&logoColor=black" alt=""/> | Technology Risk Job Simulation | EY · Forage | 2026 |
+| <img src="https://img.shields.io/badge/-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt=""/> | Python Essentials 1 & 2 | Cisco Networking Academy | 2026 |
+| <img src="https://img.shields.io/badge/-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt=""/> | Introduction to Cybersecurity | Cisco Networking Academy | 2024 |
+| <img src="https://img.shields.io/badge/-007CC3?style=flat-square&logo=infosys&logoColor=white" alt=""/> | ReactJS | Infosys Springboard | 2024 |
 
 ---
 
-# 🌐 Connect With Me
+### 🏆 Highlights
 
-<div align="center">
-
-<a href="https://github.com/kingprem12">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/prem-s-12626b309/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/kingprem12/portfolio">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="https://www.reddit.com/user/Ok-Glass1313/">
-<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit"/>
-</a>
-
-</div>
+- 🥇 **1st place, Shardeum track** — Hack with GDG Season 3, GDG KSRCE (Feb 2026)
+- 🥈 **2nd place** — Unstop hackathon, Bharati Vidyapeeth University (AI micro-port export model)
+- 📄 **Research paper** — AgriShield-X drought forecasting (IEEE conference format)
+- 🎖️ **Department rank 2** in CSE (IoT), 2024–25 and 2025–26
 
 ---
 
 <div align="center">
 
-### ⚡ “Building intelligent systems with scalable engineering.”
+<img src="https://streak-stats.demolab.com?user=kingprem12&theme=tokyonight&hide_border=true&background=0B1426&ring=5EEAD4&fire=A78BFA&currStreakLabel=5EEAD4" alt="GitHub streak" width="70%"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kingprem12/kingprem12/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kingprem12/kingprem12/output/snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/kingprem12/kingprem12/output/snake.svg" width="100%"/>
+</picture>
+
+<sub>Built with care in Coimbatore · let's build something that ships.</sub>
 
 </div>
